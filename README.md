@@ -39,3 +39,7 @@ Cadastro de Pessoa com múltiplos telefones na mesma tela.
 Remoção em cascata (ao deletar uma pessoa, os telefones são removidos).
 Validação de campos obrigatórios via Bean Validation.
 Interface reativa com AJAX usando PrimeFaces.
+
+
+
+![image](https://github.com/HallefBruno/startejb/blob/master/src/main/resources/javaee-jsf-primefaces.png)
